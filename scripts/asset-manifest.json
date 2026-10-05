@@ -1,0 +1,1416 @@
+[
+  {
+    "id": "sky-01",
+    "image": "1470770841072-f978cf4d019e",
+    "title": "A quiet morning by the lake",
+    "cluster": "sky",
+    "src": "/photos/sky-01.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-28T09:20:00",
+    "year": 2026,
+    "location": "Manali",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "mountains lake cloudy mist",
+    "event": "Himachal trip",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "cloudy",
+      "mountains",
+      "mist",
+      "travel"
+    ]
+  },
+  {
+    "id": "girl-01",
+    "image": "1517841905240-472988babdf9",
+    "title": "An afternoon in the garden",
+    "cluster": "girl",
+    "src": "/photos/girl-01.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-28T15:40:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Ananya"
+    ],
+    "gender": "female",
+    "ageGroup": "young adult",
+    "scene": "garden smiling",
+    "event": "Sunday picnic",
+    "activity": [],
+    "objects": [],
+    "clothing": [
+      "casual"
+    ],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "girl",
+      "young",
+      "woman",
+      "smiling"
+    ]
+  },
+  {
+    "id": "sky-02",
+    "image": "1500530855697-b586d89ba3ee",
+    "title": "The road through the canyon",
+    "cluster": "sky",
+    "src": "/photos/sky-02.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-28T18:30:00",
+    "year": 2026,
+    "location": "Leh",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "canyon blue sky clear",
+    "event": "Road trip",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "blue sky",
+      "travel",
+      "road"
+    ]
+  },
+  {
+    "id": "baby-01",
+    "image": "1519689680058-324335c77eba",
+    "title": "A tiny summer holiday",
+    "cluster": "baby",
+    "src": "/photos/baby-01.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-27T11:20:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Aarav"
+    ],
+    "gender": "male",
+    "ageGroup": "infant",
+    "scene": "pool",
+    "event": "Family afternoon",
+    "activity": [
+      "playing"
+    ],
+    "objects": [
+      "sunglasses"
+    ],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "baby",
+      "infant",
+      "family"
+    ]
+  },
+  {
+    "id": "sky-03",
+    "image": "1464822759023-fed622ff2c3b",
+    "title": "Blue skies over the peaks",
+    "cluster": "sky",
+    "src": "/photos/sky-03.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-26T09:30:00",
+    "year": 2026,
+    "location": "Manali",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "mountains blue sky",
+    "event": "Himachal trip",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "mountains",
+      "blue sky",
+      "travel"
+    ]
+  },
+  {
+    "id": "travel-01",
+    "image": "1507525428034-b723cf961d3e",
+    "title": "The beach, all to ourselves",
+    "cluster": "travel",
+    "src": "/photos/travel-01.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-26T14:30:00",
+    "year": 2026,
+    "location": "Goa",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "beach blue sky",
+    "event": "Goa trip",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "blue sky",
+      "beach",
+      "travel",
+      "sea"
+    ]
+  },
+  {
+    "id": "girl-02",
+    "image": "1524504388940-b1c1722653e1",
+    "title": "The light just before sunset",
+    "cluster": "girl",
+    "src": "/photos/girl-02.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-25T17:20:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Meera"
+    ],
+    "gender": "female",
+    "ageGroup": "young adult",
+    "scene": "outdoor portrait smiling",
+    "event": "Birthday",
+    "activity": [],
+    "objects": [],
+    "clothing": [
+      "casual"
+    ],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "girl",
+      "young",
+      "woman",
+      "smiling"
+    ]
+  },
+  {
+    "id": "wedding-01",
+    "image": "1519741497674-611481863552",
+    "title": "A day to remember",
+    "cluster": "wedding",
+    "src": "/photos/wedding-01.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-24T16:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Meera",
+      "Arjun"
+    ],
+    "gender": "female",
+    "ageGroup": "adult",
+    "scene": "wedding ceremony bride",
+    "event": "Meera wedding",
+    "activity": [],
+    "objects": [],
+    "clothing": [
+      "traditional",
+      "white"
+    ],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "wedding",
+      "bride",
+      "marriage",
+      "ceremony",
+      "traditional",
+      "girl"
+    ]
+  },
+  {
+    "id": "art-01",
+    "image": "1460661419201-fd4cecdf8a8b",
+    "title": "A little colour for the weekend",
+    "cluster": "art",
+    "src": "/photos/art-01.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-24T10:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "art painting",
+    "event": "",
+    "activity": [
+      "drawing",
+      "painting"
+    ],
+    "objects": [
+      "paint",
+      "brush",
+      "canvas"
+    ],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "drawing",
+      "art",
+      "painting"
+    ]
+  },
+  {
+    "id": "sky-04",
+    "image": "1493246507139-91e8fad9978e",
+    "title": "Sunset and still water",
+    "cluster": "sky",
+    "src": "/photos/sky-04.jpg",
+    "type": "video",
+    "duration": "0:18",
+    "date": "2026-08-22T18:10:00",
+    "year": 2026,
+    "location": "Manali",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "mountains lake sunset cloudy",
+    "event": "Himachal trip",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "mountains",
+      "sunset",
+      "cloudy",
+      "travel",
+      "video"
+    ]
+  },
+  {
+    "id": "girl-03",
+    "image": "1534528741775-53994a69daeb",
+    "title": "A portrait by the window",
+    "cluster": "girl",
+    "src": "/photos/girl-03.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-21T13:40:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Ananya"
+    ],
+    "gender": "female",
+    "ageGroup": "young adult",
+    "scene": "portrait",
+    "event": "Family afternoon",
+    "activity": [],
+    "objects": [],
+    "clothing": [
+      "casual"
+    ],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "girl",
+      "woman",
+      "young"
+    ]
+  },
+  {
+    "id": "camera-01",
+    "image": "1516035069371-29a1b244cc32",
+    "title": "The camera came along too",
+    "cluster": "camera",
+    "src": "/photos/camera-01.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-21T11:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "camera",
+    "event": "",
+    "activity": [],
+    "objects": [
+      "camera",
+      "DSLR"
+    ],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "camera",
+      "dslr",
+      "photography"
+    ]
+  },
+  {
+    "id": "sky-05",
+    "image": "1470252649378-9c29740c9fa8",
+    "title": "Sunrise in the valley",
+    "cluster": "sky",
+    "src": "/photos/sky-05.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-18T06:30:00",
+    "year": 2026,
+    "location": "Coorg",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "sunset mist landscape hills",
+    "event": "Coorg weekend",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "sunset",
+      "mist",
+      "travel"
+    ]
+  },
+  {
+    "id": "girl-04",
+    "image": "1488426862026-3ee34a7d66df",
+    "title": "Coffee and a familiar smile",
+    "cluster": "girl",
+    "src": "/photos/girl-04.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-18T14:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Nisha"
+    ],
+    "gender": "female",
+    "ageGroup": "adult",
+    "scene": "portrait smiling",
+    "event": "Family afternoon",
+    "activity": [],
+    "objects": [],
+    "clothing": [
+      "casual"
+    ],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "girl",
+      "woman",
+      "smiling"
+    ]
+  },
+  {
+    "id": "baby-02",
+    "image": "1503454537195-1dcabb73ffb9",
+    "title": "A little explorer",
+    "cluster": "baby",
+    "src": "/photos/baby-02.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-15T16:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Tara"
+    ],
+    "gender": "female",
+    "ageGroup": "child",
+    "scene": "garden smiling",
+    "event": "Sunday picnic",
+    "activity": [
+      "playing"
+    ],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "baby",
+      "girl",
+      "child",
+      "young",
+      "family",
+      "playing",
+      "smiling"
+    ]
+  },
+  {
+    "id": "travel-02",
+    "image": "1476514525535-07fb3b4ae5f1",
+    "title": "A postcard from the mountains",
+    "cluster": "travel",
+    "src": "/photos/travel-02.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-12T11:30:00",
+    "year": 2026,
+    "location": "Manali",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "mountains lake cloudy",
+    "event": "Himachal trip",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "mountains",
+      "cloudy",
+      "travel"
+    ]
+  },
+  {
+    "id": "sky-06",
+    "image": "1441974231531-c6227db76b6e",
+    "title": "Under the forest canopy",
+    "cluster": "sky",
+    "src": "/photos/sky-06.jpg",
+    "type": "video",
+    "duration": "0:26",
+    "date": "2026-08-10T10:30:00",
+    "year": 2026,
+    "location": "Coorg",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "forest outdoor green",
+    "event": "Coorg weekend",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "outdoor",
+      "forest",
+      "travel",
+      "video"
+    ]
+  },
+  {
+    "id": "girl-05",
+    "image": "1544005313-94ddf0286df2",
+    "title": "At the family gathering",
+    "cluster": "girl",
+    "src": "/photos/girl-05.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-07-28T12:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Nisha"
+    ],
+    "gender": "female",
+    "ageGroup": "adult",
+    "scene": "portrait smiling",
+    "event": "Family gathering",
+    "activity": [],
+    "objects": [],
+    "clothing": [
+      "casual"
+    ],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "girl",
+      "woman",
+      "smiling"
+    ]
+  },
+  {
+    "id": "girl-06",
+    "image": "1524250502761-1ac6f2e30d43",
+    "title": "Out for a walk",
+    "cluster": "girl",
+    "src": "/photos/girl-06.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-07-26T16:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Meera"
+    ],
+    "gender": "female",
+    "ageGroup": "young adult",
+    "scene": "garden portrait",
+    "event": "Sunday picnic",
+    "activity": [
+      "walking"
+    ],
+    "objects": [],
+    "clothing": [
+      "casual"
+    ],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "girl",
+      "woman",
+      "young"
+    ]
+  },
+  {
+    "id": "sky-07",
+    "image": "1469474968028-56623f02e42e",
+    "title": "The view from up here",
+    "cluster": "sky",
+    "src": "/photos/sky-07.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-07-24T09:30:00",
+    "year": 2026,
+    "location": "Manali",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "mountains mist cloudy",
+    "event": "Himachal trip",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "mountains",
+      "cloudy",
+      "mist",
+      "travel"
+    ]
+  },
+  {
+    "id": "baby-03",
+    "image": "1516627145497-ae6968895b74",
+    "title": "An aspiring photographer",
+    "cluster": "baby",
+    "src": "/photos/baby-03.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-07-20T10:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Aarav"
+    ],
+    "gender": "male",
+    "ageGroup": "toddler",
+    "scene": "living room",
+    "event": "Family afternoon",
+    "activity": [
+      "playing"
+    ],
+    "objects": [
+      "toy",
+      "camera"
+    ],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "baby",
+      "toddler",
+      "child",
+      "young",
+      "family"
+    ]
+  },
+  {
+    "id": "sky-08",
+    "image": "1500534623283-312aade485b7",
+    "title": "The countryside in summer",
+    "cluster": "sky",
+    "src": "/photos/sky-08.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-07-18T14:30:00",
+    "year": 2026,
+    "location": "Coorg",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "landscape blue sky clear",
+    "event": "Coorg weekend",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "blue sky",
+      "clear",
+      "travel"
+    ]
+  },
+  {
+    "id": "wedding-02",
+    "image": "1511285560929-80b456fea0bc",
+    "title": "The wedding garden",
+    "cluster": "wedding",
+    "src": "/photos/wedding-02.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-06-21T18:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Meera",
+      "Arjun",
+      "Nisha"
+    ],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "wedding ceremony group photo evening",
+    "event": "Meera wedding",
+    "activity": [],
+    "objects": [
+      "flowers",
+      "balloons"
+    ],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "wedding",
+      "ceremony",
+      "evening",
+      "group photo"
+    ]
+  },
+  {
+    "id": "baby-04",
+    "image": "1544126592-807ade215a0b",
+    "title": "Meeting the newest member",
+    "cluster": "baby",
+    "src": "/photos/baby-04.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-06-18T12:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Aarav",
+      "Nisha"
+    ],
+    "gender": "male",
+    "ageGroup": "infant",
+    "scene": "bedroom family",
+    "event": "Family afternoon",
+    "activity": [
+      "sleeping"
+    ],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "baby",
+      "infant",
+      "family"
+    ]
+  },
+  {
+    "id": "travel-03",
+    "image": "1519046904884-53103b34b206",
+    "title": "Our last evening in Goa",
+    "cluster": "travel",
+    "src": "/photos/travel-03.jpg",
+    "type": "video",
+    "duration": "0:32",
+    "date": "2026-06-12T18:30:00",
+    "year": 2026,
+    "location": "Goa",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "beach sunset",
+    "event": "Goa trip",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "sunset",
+      "beach",
+      "travel",
+      "video"
+    ]
+  },
+  {
+    "id": "girl-07",
+    "image": "1508214751196-bcfd4ca60f91",
+    "title": "Everyone has a story",
+    "cluster": "girl",
+    "src": "/photos/girl-07.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-05-22T12:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Nisha"
+    ],
+    "gender": "female",
+    "ageGroup": "adult",
+    "scene": "portrait smiling",
+    "event": "Family gathering",
+    "activity": [],
+    "objects": [],
+    "clothing": [
+      "casual"
+    ],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "girl",
+      "woman",
+      "smiling"
+    ]
+  },
+  {
+    "id": "sky-09",
+    "image": "1533104816931-20fa691ff6ca",
+    "title": "Another kind of blue",
+    "cluster": "sky",
+    "src": "/photos/sky-09.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-05-20T13:30:00",
+    "year": 2026,
+    "location": "Goa",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "blue sky ocean clear",
+    "event": "Goa trip",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "blue sky",
+      "beach",
+      "travel"
+    ]
+  },
+  {
+    "id": "wedding-04",
+    "image": "1583939003579-730e3918a45a",
+    "title": "Just married",
+    "cluster": "wedding",
+    "src": "/photos/wedding-04.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-06-21T16:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Meera",
+      "Arjun"
+    ],
+    "gender": "female",
+    "ageGroup": "young adult",
+    "scene": "bride ceremony group photo",
+    "event": "Meera wedding",
+    "activity": [],
+    "objects": [],
+    "clothing": [
+      "traditional",
+      "white"
+    ],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "girl",
+      "young",
+      "bride",
+      "wedding",
+      "traditional",
+      "group photo"
+    ]
+  },
+  {
+    "id": "girl-08",
+    "image": "1519457431-44ccd64a579b",
+    "title": "A sunny afternoon together",
+    "cluster": "girl",
+    "src": "/photos/girl-08.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-05-18T16:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Tara"
+    ],
+    "gender": "female",
+    "ageGroup": "child",
+    "scene": "outdoor smiling",
+    "event": "Sunday picnic",
+    "activity": [
+      "playing"
+    ],
+    "objects": [],
+    "clothing": [
+      "casual"
+    ],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "girl",
+      "young",
+      "child",
+      "smiling",
+      "family"
+    ]
+  },
+  {
+    "id": "baby-05",
+    "image": "1537673156864-5d2c72de7824",
+    "title": "A morning at home",
+    "cluster": "baby",
+    "src": "/photos/baby-05.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-04-24T10:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Aarav"
+    ],
+    "gender": "male",
+    "ageGroup": "infant",
+    "scene": "bedroom",
+    "event": "Family afternoon",
+    "activity": [
+      "playing"
+    ],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "baby",
+      "infant",
+      "family"
+    ]
+  },
+  {
+    "id": "camera-02",
+    "image": "1502920917128-1aa500764cbd",
+    "title": "Ready for our next trip",
+    "cluster": "camera",
+    "src": "/photos/camera-02.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-04-20T09:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "camera photography",
+    "event": "",
+    "activity": [],
+    "objects": [
+      "camera",
+      "DSLR"
+    ],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "camera",
+      "dslr",
+      "photography",
+      "travel"
+    ]
+  },
+  {
+    "id": "baby-06",
+    "image": "1471286174890-9c112ffca5b4",
+    "title": "Running into the weekend",
+    "cluster": "baby",
+    "src": "/photos/baby-06.jpg",
+    "type": "video",
+    "duration": "0:14",
+    "date": "2026-03-28T11:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Aarav"
+    ],
+    "gender": "male",
+    "ageGroup": "child",
+    "scene": "park",
+    "event": "Sunday picnic",
+    "activity": [
+      "walking",
+      "playing"
+    ],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "baby",
+      "child",
+      "family",
+      "young",
+      "video"
+    ]
+  },
+  {
+    "id": "art-02",
+    "image": "1513364776144-60967b0f800f",
+    "title": "One page at a time",
+    "cluster": "art",
+    "src": "/photos/art-02.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-03-22T12:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "art painting",
+    "event": "",
+    "activity": [
+      "drawing",
+      "painting"
+    ],
+    "objects": [
+      "paint",
+      "brush",
+      "canvas"
+    ],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "drawing",
+      "art",
+      "painting"
+    ]
+  },
+  {
+    "id": "wedding-05",
+    "image": "1523438885200-e635ba2c371e",
+    "title": "Ready for the ceremony",
+    "cluster": "wedding",
+    "src": "/photos/wedding-05.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-06-21T16:45:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "wedding stage",
+    "event": "Meera wedding",
+    "activity": [],
+    "objects": [
+      "stage",
+      "flowers"
+    ],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "wedding",
+      "ceremony",
+      "stage"
+    ]
+  },
+  {
+    "id": "girl-09",
+    "image": "1551836022-d5d88e9218df",
+    "title": "Getting everyone in the frame",
+    "cluster": "girl",
+    "src": "/photos/girl-09.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-02-28T12:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Meera",
+      "Nisha"
+    ],
+    "gender": "female",
+    "ageGroup": "adult",
+    "scene": "group photo",
+    "event": "Family gathering",
+    "activity": [],
+    "objects": [],
+    "clothing": [
+      "casual"
+    ],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "girl",
+      "woman",
+      "group photo",
+      "friends"
+    ]
+  },
+  {
+    "id": "sky-10",
+    "image": "1418065460487-3e41a6c84dc5",
+    "title": "A little mist on the trail",
+    "cluster": "sky",
+    "src": "/photos/sky-10.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-02-22T08:30:00",
+    "year": 2026,
+    "location": "Coorg",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "forest mist cloudy",
+    "event": "Coorg weekend",
+    "activity": [],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "outdoor",
+    "tags": [
+      "sky",
+      "mist",
+      "cloudy",
+      "travel"
+    ]
+  },
+  {
+    "id": "girl-10",
+    "image": "1610030469983-98e550d6193c",
+    "title": "Before the ceremony",
+    "cluster": "girl",
+    "src": "/photos/girl-10.jpg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-06-21T14:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [
+      "Ananya"
+    ],
+    "gender": "female",
+    "ageGroup": "young adult",
+    "scene": "portrait smiling",
+    "event": "Meera wedding",
+    "activity": [],
+    "objects": [],
+    "clothing": [
+      "traditional",
+      "red"
+    ],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "girl",
+      "young",
+      "woman",
+      "traditional",
+      "smiling",
+      "wedding"
+    ]
+  },
+  {
+    "id": "baby-bin",
+    "image": "generated",
+    "title": "Helping tidy up at home",
+    "cluster": "baby",
+    "src": "/photos/baby-bin.png",
+    "type": "video",
+    "duration": "0:12",
+    "date": "2025-11-08T11:30:00",
+    "year": 2025,
+    "location": "Bengaluru",
+    "people": [
+      "Aarav"
+    ],
+    "gender": "male",
+    "ageGroup": "toddler",
+    "scene": "kitchen",
+    "event": "Family afternoon",
+    "activity": [
+      "walking",
+      "throwing",
+      "tidying"
+    ],
+    "objects": [
+      "bin",
+      "paper",
+      "dustbin"
+    ],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "baby",
+      "toddler",
+      "child",
+      "brother",
+      "family",
+      "video"
+    ]
+  },
+  {
+    "id": "baby-07",
+    "image": "1526634332515-d56c5fd16991",
+    "title": "Discovering something new",
+    "cluster": "baby",
+    "src": "/photos/baby-07.jpg",
+    "type": "video",
+    "duration": "0:22",
+    "date": "2025-12-24T10:30:00",
+    "year": 2025,
+    "location": "Bengaluru",
+    "people": [
+      "Aarav"
+    ],
+    "gender": "male",
+    "ageGroup": "toddler",
+    "scene": "living room",
+    "event": "Birthday",
+    "activity": [
+      "playing"
+    ],
+    "objects": [],
+    "clothing": [],
+    "text": "",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "baby",
+      "toddler",
+      "child",
+      "family",
+      "video"
+    ]
+  },
+  {
+    "id": "doc-01",
+    "image": "local",
+    "title": "Sample identity card",
+    "cluster": "document",
+    "src": "/photos/doc-01.svg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-20T10:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "id card document text",
+    "event": "",
+    "activity": [],
+    "objects": [
+      "document",
+      "id card"
+    ],
+    "clothing": [],
+    "text": "DEMO SAMPLE — fictional information only",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "id",
+      "card",
+      "document",
+      "text"
+    ]
+  },
+  {
+    "id": "doc-02",
+    "image": "local",
+    "title": "Travel booking",
+    "cluster": "document",
+    "src": "/photos/doc-02.svg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-08-10T10:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "document text ticket",
+    "event": "",
+    "activity": [],
+    "objects": [
+      "document"
+    ],
+    "clothing": [],
+    "text": "DEMO SAMPLE — fictional information only",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "document",
+      "text",
+      "ticket"
+    ]
+  },
+  {
+    "id": "doc-03",
+    "image": "local",
+    "title": "A saved note",
+    "cluster": "document",
+    "src": "/photos/doc-03.svg",
+    "type": "photo",
+    "duration": "",
+    "date": "2026-07-14T10:30:00",
+    "year": 2026,
+    "location": "Bengaluru",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "document text screenshot",
+    "event": "",
+    "activity": [],
+    "objects": [
+      "document"
+    ],
+    "clothing": [],
+    "text": "DEMO SAMPLE — fictional information only",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "document",
+      "text",
+      "screenshot"
+    ]
+  },
+  {
+    "id": "doc-04",
+    "image": "local",
+    "title": "Sample membership card",
+    "cluster": "document",
+    "src": "/photos/doc-04.svg",
+    "type": "photo",
+    "duration": "",
+    "date": "2025-08-18T10:30:00",
+    "year": 2025,
+    "location": "Bengaluru",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "id card document text",
+    "event": "",
+    "activity": [],
+    "objects": [
+      "document",
+      "id card"
+    ],
+    "clothing": [],
+    "text": "DEMO SAMPLE — fictional information only",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "id",
+      "card",
+      "document",
+      "text"
+    ]
+  },
+  {
+    "id": "doc-05",
+    "image": "local",
+    "title": "Weekend itinerary",
+    "cluster": "document",
+    "src": "/photos/doc-05.svg",
+    "type": "photo",
+    "duration": "",
+    "date": "2025-03-18T10:30:00",
+    "year": 2025,
+    "location": "Bengaluru",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "document text screenshot travel",
+    "event": "",
+    "activity": [],
+    "objects": [
+      "document"
+    ],
+    "clothing": [],
+    "text": "DEMO SAMPLE — fictional information only",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "document",
+      "text",
+      "screenshot",
+      "travel"
+    ]
+  },
+  {
+    "id": "doc-06",
+    "image": "local",
+    "title": "Sketchbook notes",
+    "cluster": "document",
+    "src": "/photos/doc-06.svg",
+    "type": "photo",
+    "duration": "",
+    "date": "2024-08-18T10:30:00",
+    "year": 2024,
+    "location": "Bengaluru",
+    "people": [],
+    "gender": "",
+    "ageGroup": "",
+    "scene": "document text drawing",
+    "event": "",
+    "activity": [],
+    "objects": [
+      "document"
+    ],
+    "clothing": [],
+    "text": "DEMO SAMPLE — fictional information only",
+    "indoorOutdoor": "indoor",
+    "tags": [
+      "document",
+      "text",
+      "drawing"
+    ]
+  }
+]

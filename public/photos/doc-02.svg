@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520">
+    <defs><filter id="shadow"><feDropShadow dx="2" dy="8" stdDeviation="10" flood-opacity=".17"/></filter></defs>
+    <rect width="600" height="520" fill="#c0c7bb"/><g transform="rotate(-2.5 300 260)" filter="url(#shadow)" font-family="Arial,sans-serif"><rect x="112" y="45" width="376" height="430" rx="5" fill="#f6f1e7"/>
+        <text x="149" y="112" font-size="26" fill="#33453a">Travel notes</text>
+        <text x="149" y="146" font-size="13" letter-spacing="2" fill="#829087">DEMO DOCUMENT</text>
+        <path d="M149 186h270m-270 29h230m-230 29h260m-260 29h180m-180 56h270m-270 29h225m-225 29h250" stroke="#c9cdc2" stroke-width="9"/>
+        <text x="149" y="440" font-size="11" fill="#829087">Illustrative content only</text></g></svg>
